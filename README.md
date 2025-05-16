@@ -56,7 +56,5 @@ This interactive Power BI dashboard enables stakeholders to analyze billing amou
 
 💡 Suggestions or improvements? Feel free to raise an issue or contribute!
 
-📩 Connect with me on LinkedIn www.linkedin.com/in/huzaifashafiq493
-
 📧 Email: huzaifashafiq493@gmail.com
 
